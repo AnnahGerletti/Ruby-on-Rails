@@ -15,6 +15,6 @@
  */
 
 body { padding-top: 100px; }
-footer { margin-top: 100px; }
+footer { margin-top: 100px; background-color: blueviolet; font-size: 50px;line-height: 100px }
 table, td, th { vertical-align: middle; border: none; }
 th { border-bottom: 1px solid #DDD; }
